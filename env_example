@@ -1,0 +1,15 @@
+# --- Telegram ---
+BOT_TOKEN=
+
+# --- PostgreSQL ---
+# PGHOST=
+# PGPORT=
+# PGDATABASE=
+# PGUSER=
+# PGPASSWORD=
+
+#--- PostgreSQLtest ---
+PGDATABASE=
+PGUSER=
+PGPASSWORD=
+PGHOST=
